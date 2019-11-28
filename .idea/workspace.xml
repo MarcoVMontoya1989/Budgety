@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94236278-30c6-4945-8a03-f0761d384b80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TuG2J2nLX0yGep4EbMaewtFbcn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94236278-30c6-4945-8a03-f0761d384b80" name="Default Changelist" comment="" />
+      <created>1574302358215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574302358215</updated>
+      <workItem from="1574302359460" duration="891000" />
+      <workItem from="1574367199014" duration="5793000" />
+      <workItem from="1574473863404" duration="3139000" />
+      <workItem from="1574619639790" duration="12321000" />
+      <workItem from="1574740046016" duration="29000" />
+      <workItem from="1574740121435" duration="21000" />
+      <workItem from="1574740151365" duration="1947000" />
+      <workItem from="1574778563946" duration="6249000" />
+      <workItem from="1574807646366" duration="10050000" />
+      <workItem from="1574861135800" duration="985000" />
+      <workItem from="1574894098186" duration="9941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="960" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574740131708">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="960" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1574740131708" />
+    <state x="1067" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1574896484033">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1067" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1574896484033" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1574780146915">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1574780146915" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1574904865986">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1574904865986" />
+  </component>
+</project>
