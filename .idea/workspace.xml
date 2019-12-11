@@ -4,7 +4,6 @@
     <list default="true" id="94236278-30c6-4945-8a03-f0761d384b80" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/repaso.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/repaso.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +72,11 @@
       <workItem from="1575378489531" duration="15433000" />
       <workItem from="1575594074766" duration="11799000" />
       <workItem from="1575660755522" duration="14926000" />
+      <workItem from="1575906017203" duration="16000" />
+      <workItem from="1575906041466" duration="985000" />
+      <workItem from="1575935083873" duration="9275000" />
+      <workItem from="1575986240054" duration="13245000" />
+      <workItem from="1576023665135" duration="2525000" />
     </task>
     <servers />
   </component>
@@ -80,9 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="960" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574740131708">
-      <screen x="0" y="0" width="2560" height="1050" />
+    <state x="720" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575906021663">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="720" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575906021663" />
     <state x="960" y="252" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2560.0.1920.1050/0.0.2560.1050@0.0.2560.1050" timestamp="1574740131708" />
     <state x="1067" y="214" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1574896484033">
       <screen x="0" y="0" width="2560" height="1050" />
